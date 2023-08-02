@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131672805361",
+    "project_id": "flutter-projects-tkugimot",
+    "storage_bucket": "flutter-projects-tkugimot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131672805361:android:36a9378f0e2314ab89be50",
+        "android_client_info": {
+          "package_name": "com.example.touch_and_hear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131672805361-ko1m1640v5ah5di0umaqjpj42evja86t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoV8WGtfY1-CEQOXZdGWxwhnDk-TlSoUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131672805361-ko1m1640v5ah5di0umaqjpj42evja86t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
