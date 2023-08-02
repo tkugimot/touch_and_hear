@@ -1,0 +1,14 @@
+{
+  "appTitle": "PiyoPiyo Sound Park",
+  "@appTitle": {
+    "description": "The app title"
+  },
+  "animal": "Animal",
+  "@animal": {
+    "description": "Animal"
+  },
+  "vehicle": "Vehicle",
+  "@vehicle": {
+    "description": "Vehicle"
+  }
+}
