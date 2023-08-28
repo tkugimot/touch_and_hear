@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:131672805361:android:36a9378f0e2314ab89be50",
         "android_client_info": {
-          "package_name": "com.example.touch_and_hear"
+          "package_name": "net.kiitoscode.touch_and_hear"
         }
       },
       "oauth_client": [
