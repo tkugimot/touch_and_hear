@@ -35,7 +35,7 @@ apply plugin: 'kotlin-android'
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
-    namespace "com.example.touch_and_hear"
+    namespace "net.kiitoscode.touch_and_hear"
     compileSdkVersion flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
